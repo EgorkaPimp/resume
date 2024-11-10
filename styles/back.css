@@ -1,0 +1,20 @@
+body, html{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('/image/back.jpg');
+    background-repeat: repeat;
+    font-family: "Old Standard TT", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+
+.back{
+    height: 100%;
+    width: 100%;
+}
+
+.back h3{
+    margin-bottom: 2%;
+}

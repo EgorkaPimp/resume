@@ -1,0 +1,17 @@
+.about{
+    color: #fff;
+    border-radius: 30px;
+    margin: 10%;
+    padding: 5%;
+    background-color: rgb(1,181,195, 0.2);
+    backdrop-filter: blur(5px);
+    
+}
+
+.about ul{
+    margin: 0;
+}
+
+.text_abaut{
+    margin-bottom: 0;
+}

@@ -1,0 +1,58 @@
+
+.photo{
+    width: 300px;
+    height: 430px;
+    margin: auto;
+    background-color: #fff;
+}
+
+.photo img{
+    width: 85%;
+    margin: 7%;
+    margin-bottom: 4%;
+    border-radius: 10px;
+    filter: grayscale(40%);
+}
+
+.photo img:hover{
+    filter: grayscale(0%);
+}
+
+.photo p {
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 22px;
+    font-family: "Marck Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.head-text{
+    margin-top: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #fff;
+    padding-top: 0%;
+    font-size: 60px;
+}
+
+.cont-button{
+    width: 100%;
+    height: 10%;
+    margin-top: 5%;
+    /* background-color: aqua; */
+    display: block;
+    text-align: center;
+}
+
+.cont-button button{
+    width: 20%;
+
+}
+
+
+
