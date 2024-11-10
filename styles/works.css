@@ -9,12 +9,13 @@
 
 .table-container {
     width: 100%;
-    max-width: 90%;
+    max-width: 98%;
     margin: 0px;
-    padding: 5%;
+    padding: 1%;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 1px 5px 10px rgb(255, 254, 255);
+    font-size: 12px;
 }
 
 .league-table {
@@ -26,4 +27,19 @@
 
 .league-table tr, th, td{
     padding: 2%;
+}
+
+.league-table th{
+    font-size: 16px;
+}
+
+.skil{
+    width: 100%;
+    max-width: 98%;
+    margin: 0px;
+    margin-top: 5%;
+    padding: 1%;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 1px 5px 10px rgb(255, 254, 255);
 }
